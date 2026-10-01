@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio.
 This website showcases my projects, skills, and experience as a full-stack developer.
 
 ## 🌐 Live Preview
-[View Portfolio](https://devkny.vercel.app)
+[View Portfolio](https://mstrk.vercel.app/)
 
 ## 📌 Features
 - Responsive portfolio design
@@ -54,7 +54,7 @@ cd portfolio
 **Dev Kny**  
 Full Stack Developer  
 
-- GitHub: https://github.com/mstr-kny  
+- GitHub: https://github.com/devkny  
 - Portfolio: https://devkny.vercel.app 
 - Email: wambuakennedy467@email.com  
 
