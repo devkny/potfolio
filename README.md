@@ -55,7 +55,7 @@ cd portfolio
 Full Stack Developer  
 
 - GitHub: https://github.com/devkny  
-- Portfolio: https://devkny.vercel.app 
+- Portfolio: https://mstrk.vercel.app
 - Email: wambuakennedy467@email.com  
 
  📄 License
